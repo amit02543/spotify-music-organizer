@@ -1,0 +1,6 @@
+[submodule "spotify"]
+	path = spotify
+	url = https://github.com/amit02543/spotify.git
+[submodule "react-login-sample"]
+	path = react-login-sample
+	url = https://github.com/amit02543/react-login-sample.git
